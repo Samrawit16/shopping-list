@@ -1,6 +1,7 @@
-kitchen material
-Knife
-stove
-food
-fruits
-vegetables
+Cleaning materials
+detergent
+soap
+mop
+sponge
+basket 
+glove
